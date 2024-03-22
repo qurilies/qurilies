@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qurilies
+- 👋 Hi, I’m mora (@qurilies)
 - 👀 This is our uni project platform
 - 🌱 Its in java!
 - 💞️ We are working on a Hotel POS Systems
